@@ -187,3 +187,5 @@ C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\I
 C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\IU.exe
 C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\IU.pdb
 C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\IU.FormMunicipio.resources
+C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\IU.FormEnvios.resources
+C:\Users\Josué\Desktop\ProyectoCristel\ParcialDavid\2doPEduardoC\IU\obj\Debug\IU.FormPaquetes.resources

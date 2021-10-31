@@ -34,5 +34,17 @@ namespace IU
             FormMunicipio fMunicipio = new FormMunicipio();
             fMunicipio.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormPaquetes formPaquetes = new FormPaquetes();
+            formPaquetes.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FormEnvios formEnvios = new FormEnvios();
+            formEnvios.Show();
+        }
     }
 }

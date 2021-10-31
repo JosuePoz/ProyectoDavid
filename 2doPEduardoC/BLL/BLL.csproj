@@ -99,6 +99,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="LogicaConsultas.cs" />
+    <Compile Include="LogicaConsultasExamen3.cs" />
     <Compile Include="LogicaConsultasMunicipio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
